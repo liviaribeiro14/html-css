@@ -23,3 +23,8 @@ Image (credit):
 - Trends and Tolstoy - <https://www.reshot.com/photos/purple-fashion-vintage-girl-tile-legs-skirt-floral-flats-tulle-blackandwhite_rs_e39Xn2>
 - No name - <https://www.reshot.com/photos/car-music-ipad_rs_ngXG7A>
 - Dakotah - <https://www.reshot.com/photos/00ZkdV_rs_00ZkdV>
+
+## Move Placeholder to Top on ?Focus and While Typing
+
+[Move Placeholder To Top on Focus And While Typing - Pure CSS Tutorial - No Javascript](https://www.youtube.com/watch?v=BKhoo6RSEDU)
+Tutorial by [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
