@@ -28,3 +28,8 @@ Image (credit):
 
 [Move Placeholder To Top on Focus And While Typing - Pure CSS Tutorial - No Javascript](https://www.youtube.com/watch?v=BKhoo6RSEDU)
 Tutorial by [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
+
+## Quick SVG Loader Animation Effects
+
+[Quick SVG Loader Animation Effects | CSS Animation](https://www.youtube.com/watch?v=X5VMxWBgm4k)
+Tutorial by [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
