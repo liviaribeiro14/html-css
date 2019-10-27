@@ -38,3 +38,8 @@ Tutorial by [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckB
 
 [Styling HTML tables with CSS - Web Design/UX Tutorial](https://www.youtube.com/watch?v=biI9OFH6Nmg&t=53s)
 Tutorial by [dcode](https://www.youtube.com/channel/UCjX0FtIZBBVD3YoCcxnDC4g)
+
+## Intro to CSS Grid
+
+[Intro to CSS Grid - Create a Basic Layout - Web Design Tutorial](https://www.youtube.com/watch?v=Y9rHsdCxU8Q)
+Tutorial by [dcode](https://www.youtube.com/channel/UCjX0FtIZBBVD3YoCcxnDC4g)
