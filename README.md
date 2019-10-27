@@ -33,3 +33,8 @@ Tutorial by [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckB
 
 [Quick SVG Loader Animation Effects | CSS Animation](https://www.youtube.com/watch?v=X5VMxWBgm4k)
 Tutorial by [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
+
+## Styling HTML tables with CSS
+
+[Styling HTML tables with CSS - Web Design/UX Tutorial](https://www.youtube.com/watch?v=biI9OFH6Nmg&t=53s)
+Tutorial by [dcode](https://www.youtube.com/channel/UCjX0FtIZBBVD3YoCcxnDC4g)
