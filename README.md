@@ -43,3 +43,5 @@ Tutorial by [dcode](https://www.youtube.com/channel/UCjX0FtIZBBVD3YoCcxnDC4g)
 
 [Intro to CSS Grid - Create a Basic Layout - Web Design Tutorial](https://www.youtube.com/watch?v=Y9rHsdCxU8Q)
 Tutorial by [dcode](https://www.youtube.com/channel/UCjX0FtIZBBVD3YoCcxnDC4g)
+
+Thanks!
